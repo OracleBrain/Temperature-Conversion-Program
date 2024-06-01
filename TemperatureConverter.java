@@ -9,7 +9,7 @@ public static void main(String[] args)
        
         // Display introductory messages
         System.out.println("TASK 01");
-        System.out.println("The program is represented by Jeegnasa Makwana");
+        System.out.println("The program is represented by Aashis Jha");
         System.out.println("Temperature Converter");
 
         // Prompt the user to enter the temperature value
